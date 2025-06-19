@@ -1,0 +1,12 @@
+site_name: Instrukcja Git i MkDocs
+theme:
+  name: material
+nav:
+  - Strona główna: index.md
+  - Temat projektu: temat.md
+  - Teoria: teoria.md
+  - Przykłady: przyklady.md
+  - Konfiguracja: konfiguracja.md
+  - Autorzy: autorzy.md
+extra_css:
+  - styles/extra.css
